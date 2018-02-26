@@ -8,5 +8,6 @@ class Factorial{
   System.out.println("Factorial of "+number+" is: "+fact);   
   System.out.println("code for second commit");
   System.out.println("code for third commit");
+  System.out.println("code for fourth commit");
  }  
 }  
