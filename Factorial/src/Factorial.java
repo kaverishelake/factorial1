@@ -9,5 +9,6 @@ class Factorial{
   System.out.println("code for second commit");
   System.out.println("code for third commit");
   System.out.println("code for fourth commit");
+   System.out.println("code for 5 commit");
  }  
 }  
